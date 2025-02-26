@@ -1,3 +1,2 @@
 # reesus-nuvem-dev-
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/saviocastr0/reesus-nuvem-dev-)
+Projeto de Desenvolvimento de Software em Nuvem
